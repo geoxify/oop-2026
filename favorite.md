@@ -1,20 +1,20 @@
 # Food
 ---
-Sisig
-Dinuguan
-Sinigang
-Tinola
-Sinanglao
-Bicol Express
-Bangus
-Pampano
+1. Sisig
+2. Dinuguan
+3. Sinigang
+4. Tinola
+5. Sinanglao
+6. Bicol Express
+7. Bangus
+8. Pampano
 
 # Friend
 ---
-ppl at the front
+1. ppl at the front
 
 # Fruit
 ---
-Honey Dew
-Grapes
-Indian Mango
+1. Honey Dew
+2. Grapes
+3. Indian Mango
