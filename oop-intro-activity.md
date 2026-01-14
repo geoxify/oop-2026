@@ -2,15 +2,15 @@
 Food
 
 # Properties
-- Origin / Classification
+- Classification
 - Method of preparation
 
 ---
 # 2 Objects
 ## Object 1
-- property1: Filipino Food
-- property2: Chinese Food
+- Classification: Filipino Food
+- Method of preparation: fried
 
 ## Object 2
-- property1: steamed
-- property: fried
+- Classification: steamed
+- Method of preparation: Chinese Food
