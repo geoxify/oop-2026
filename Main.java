@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        // Object then its properties
         Laptop obj1 = new Laptop();
         obj1.brand = "Asus";
         obj1.storage = 512;
@@ -9,6 +10,7 @@ public class Main {
         obj1.condition = "New";
         obj1.price = 42000;
 
+        // You can also do "var" instead of using the class name
         Laptop obj2 = new Laptop();
         obj2.brand = "Dell";
         obj2.storage = 256;

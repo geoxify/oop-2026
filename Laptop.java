@@ -7,7 +7,7 @@ public class Laptop {
     String condition;
     double price;
 
-    void printDetails(){
+    void printDetails() {
         System.out.printf("""
                 %s %s %s
                 """, condition, brand, model);
